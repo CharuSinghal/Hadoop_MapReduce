@@ -1,0 +1,10 @@
+Jessica,32,F,95
+Mary,77,F,82
+Albert,34,M,77
+Yogi Adityanath,44,M,50
+Jack,42,M,62
+Alex,35,M,99
+Sheldon,25,M,82
+Nick,28,M,97
+Nancy,26,F,99
+Raina,28,F,98
